@@ -1,5 +1,5 @@
 # Papers on models: 
-Demucs: Real Time Speech Enhancement in the Waveform Domain --- Alexandre Defossez, Gabriel Synnaeve, Yossi Adi \
+Demucs: Real Time Speech Enhancement in the Waveform Domain &mdash; Alexandre Defossez, Gabriel Synnaeve, Yossi Adi \
 aTTENuate: aTENNuate: Optimized Real-time Speech Enhancement with Deep SSMs on Raw Audio --- Yan Ru, Ritik
 
 # Papers on augmentations:
