@@ -7,6 +7,7 @@ aTTENuate:
 >
 
 # Papers on augmentations:
-Data Augmentation for Pathological Speech Enhancement &mdash; Mingchi Hou, Enno Hermann, Ina Kodrasi \
-SpecMix : A Mixed Sample Data Augmentation method for Training with Time-Frequency Domain Features &mdash; Gwantae Kim 
+>Data Augmentation for Pathological Speech Enhancement &mdash; Mingchi Hou, Enno Hermann, Ina Kodrasi
+>
+>SpecMix : A Mixed Sample Data Augmentation method for Training with Time-Frequency Domain Features &mdash; Gwantae Kim 
 , David K. Han and Hanseok Ko
